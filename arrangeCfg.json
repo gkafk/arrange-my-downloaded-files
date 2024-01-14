@@ -1,0 +1,29 @@
+{
+"source" : "D:\\downloads",
+"fileTypes" : {
+          "images" : {
+                        "extension" : [".ico",".jpg",".JPG",".bmp",".jpeg",".png"],
+                        "destination" : "D:\\downloads\\2. IMAGES"
+                        },
+          "executables" : {
+                        "extension" : [".exe",".msi",".msu"],
+                        "destination" : "D:\\APOTHIKI\\downs\\4. Programs"
+                        },
+          "video" : {
+                        "extension" : [".mp3",".m4a",".mp4",".wav",".amr",".ogg",".mov"],
+                        "destination" : "D:\\downloads\\5. SOUND - VIDEO"
+                        },
+          "pay" : {
+                        "extension" : ["pay","paid","receipt","Receipt","card","cash","Cash"],
+                        "destination" : "D:\\downloads\\3. DOCUMENTS\\Αποδειξεις"
+                        },
+          "bil" : {
+                        "extension" : ["to_pay","bill","billet"],
+                        "destination" :"D:\\downloads\\3. DOCUMENTS\\bill"
+                        },
+          "documents" : {
+                        "extension" : [".pdf",".PDF",".doc",".docx",".xls",".xlsx",".txt"],
+                        "destination" :"D:\\downloads\\3. DOCUMENTS"
+                        }
+          }
+}
