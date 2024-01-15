@@ -20,7 +20,7 @@ arrangeCfg.json : It is a json file that contains the destination paths for file
                         },
           "pay" : {
                         "extension" : ["pay","paid","receipt","Receipt","card","cash","Cash"],
-                        "destination" : "D:\\downloads\\3. DOCUMENTS\\Αποδειξεις"
+                        "destination" : "D:\\downloads\\3. DOCUMENTS\\paid"
                         },
           "bil" : {
                         "extension" : ["to_pay","bill","billet"],
